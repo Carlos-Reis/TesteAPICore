@@ -48,7 +48,7 @@ namespace ProAgil.API.Controllers
             catch (System.Exception)
             {
                 
-                throw;
+                return this.StatusCode(StatusCodes.Status500InternalServerError, "Conexão com Banco de Dados Falhou");
             }
             
         }
