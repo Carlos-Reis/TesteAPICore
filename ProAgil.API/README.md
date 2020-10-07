@@ -1,3 +1,3 @@
 ## Criação de API com .NET Core no VS Code
 
-> VS Core / EF Core / SQLite
+> VS Code / .NETCore / EF Core / SQLite
